@@ -61,7 +61,8 @@ h1 {
 }
 
 .hdr_brnd {
-  padding-top: 25px;
+	padding-top: 25px;
+	text-align: center;
 }
 
 h2 {
