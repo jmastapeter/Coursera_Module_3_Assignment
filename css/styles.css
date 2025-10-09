@@ -14,6 +14,7 @@ body {
 
 .navbar-brand {
 	padding-top: 50px;
+	align-items: center;
 }
 
 .navbar-brand h1 {
@@ -24,8 +25,7 @@ body {
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #222;
 	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin: 0px;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
