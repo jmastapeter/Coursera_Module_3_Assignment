@@ -10,11 +10,11 @@ body {
 	height: 50px
 	border-radius: 0;
 	border: 0;
+	align-items: center;
 }
 
 .navbar-brand {
 	padding-top: 50px;
-	align-items: center;
 }
 
 .navbar-brand h1 {
