@@ -109,10 +109,11 @@ menu-item {
 }
 
 #menu-tile {
-  height: 250px;
-  width: 100%;
-  margin-bottom: 15px;
-  position: relative;
-  border: 2px solid #3F0C1F;
-  overflow: hidden;
+	height: 250px;
+	width: 100%;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid #00000;
+	overflow: hidden;
+	background-color: #eeeeee;
 }
